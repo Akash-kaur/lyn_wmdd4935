@@ -1,0 +1,27 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-kaur/lyn_wmdd4935.git"
+  },
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "hapi": "^17.1.1",
+    "inert": "^5.0.1",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash-kaur/lyn_wmdd4935/issues"
+  },
+  "homepage": "https://github.com/Akash-kaur/lyn_wmdd4935#readme"
+}
